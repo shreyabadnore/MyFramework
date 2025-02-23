@@ -1,0 +1,12 @@
+2025-02-21 00:01:27 INFO  DriverFactory:97 - running test suite on env: null
+2025-02-21 00:01:27 WARN  DriverFactory:104 - no env is passed, hence running test suite on qa env..
+2025-02-21 00:01:27 INFO  DriverFactory:43 - browser name is : chrome
+2025-02-21 00:08:45 INFO  DriverFactory:97 - running test suite on env: null
+2025-02-21 00:08:45 INFO  DriverFactory:97 - running test suite on env: null
+2025-02-21 00:08:45 INFO  DriverFactory:97 - running test suite on env: null
+2025-02-21 00:08:45 WARN  DriverFactory:104 - no env is passed, hence running test suite on qa env..
+2025-02-21 00:08:45 WARN  DriverFactory:104 - no env is passed, hence running test suite on qa env..
+2025-02-21 00:08:45 WARN  DriverFactory:104 - no env is passed, hence running test suite on qa env..
+2025-02-21 00:08:45 INFO  DriverFactory:43 - browser name is : chrome
+2025-02-21 00:08:45 INFO  DriverFactory:43 - browser name is : chrome
+2025-02-21 00:08:45 INFO  DriverFactory:43 - browser name is : chrome
