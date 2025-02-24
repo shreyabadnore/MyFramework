@@ -1,11 +1,14 @@
 package com.qa.opencart.pages;
 
+import org.openqa.selenium.By;
+
 public class LoginDemo {
 
-	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+	private By emailid=By.id("loginid");
+	
+	public void login()
+	{		System.out.println(" do login");
 
-		int i=10;
 		
 	}
 
